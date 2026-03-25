@@ -27,3 +27,10 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Generated artifacts
+.coverage
+src/*.egg-info/
+__pycache__/
+*.pyc
+EOF
