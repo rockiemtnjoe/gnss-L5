@@ -3,7 +3,6 @@
 import numpy as np
 from pathlib import Path
 
-
 SUPPORTED_DTYPES = (np.int8, np.int16, np.float32)
 
 
