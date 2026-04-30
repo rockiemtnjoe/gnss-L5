@@ -2,7 +2,7 @@
 
 import numpy as np
 import pytest
-from gnss_l5.capture_metadata import CaptureMetadata
+from gnss_common.capture.capture_metadata import CaptureMetadata
 
 
 @pytest.fixture

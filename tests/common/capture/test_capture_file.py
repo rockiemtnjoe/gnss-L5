@@ -23,7 +23,7 @@ import numpy as np
 import pytest
 from pathlib import Path
 
-from gnss_l5.capture_file import CaptureFile
+from gnss_common.capture.capture_file import CaptureFile
 
 
 # ---------------------------------------------------------------------------
